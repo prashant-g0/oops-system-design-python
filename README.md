@@ -5,9 +5,9 @@ This repository is built to strengthen core OOP concepts through practical, syst
 
 ---
 ## Systems Included (and Growing):
-- [Bank Management System]()
-- [Library Management System]()
-- [Car Rental System]()
+- [Bank Management System](https://github.com/prashant-g0/oops-system-design-python/bank_management_system)
+- [Library Management System](https://github.com/prashant-g0/oops-system-design-python/library_system)
+- [Car Rental System](https://github.com/prashant-g0/oops-system-design-python/car_rental_system)
 - More systems will be added progressively
    
 Each system is designed to be simple enough to understand, yet realistic enough to reflect how such applications are structured in practice.
