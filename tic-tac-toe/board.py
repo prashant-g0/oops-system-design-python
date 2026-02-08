@@ -1,2 +1,3 @@
 class Board:
-    pass
+    grid = [['_']*3]*3
+    
