@@ -8,6 +8,7 @@ This repository is built to strengthen core OOP concepts through practical, syst
 - [Bank Management System](https://github.com/prashant-g0/oops-system-design-python/tree/main/bank_management_system)
 - [Library Management System](https://github.com/prashant-g0/oops-system-design-python/tree/main/library_system)
 - [Car Rental System](https://github.com/prashant-g0/oops-system-design-python/tree/main/car_rental_system)
+- [Tic Tac Toe](https://github.com/prashant-g0/oops-system-design-python/tree/main/tic-tac-toe)
 - More systems will be added progressively
    
 Each system is designed to be simple enough to understand, yet realistic enough to reflect how such applications are structured in practice.
